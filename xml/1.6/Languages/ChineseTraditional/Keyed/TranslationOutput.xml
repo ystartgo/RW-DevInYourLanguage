@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <DebugAction_outputTranslationSource>輸出翻譯來源檔案</DebugAction_outputTranslationSource>
+  <DevL10N.TranslationOutput.Writing>正在輸出翻譯來源檔案</DevL10N.TranslationOutput.Writing>
+  <DevL10N.TranslationOutput.SavedTo>已將翻譯輸出儲存到 {0}。</DevL10N.TranslationOutput.SavedTo>
+  <DevL10N.TranslationOutput.ExtraItemsFromLanguage>（額外 {0} 項）</DevL10N.TranslationOutput.ExtraItemsFromLanguage>
+  <DevL10N.TranslationOutput.RemovedItemsFromLanguage>（已移除未使用的 {0} 項）</DevL10N.TranslationOutput.RemovedItemsFromLanguage>
+</LanguageData>

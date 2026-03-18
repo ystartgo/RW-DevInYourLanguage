@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <GearTab_AddToInventory>給予物品...</GearTab_AddToInventory>
+  <GearTab_DamageRandomApparel>隨機損壞衣著</GearTab_DamageRandomApparel>
+  <GearTab_SetPrimary>設定主要裝備...</GearTab_SetPrimary>
+  <GearTab_Wear>給予衣著...</GearTab_Wear>
+
+  <HealthTab_AddHediff>新增一個健康狀態...</HealthTab_AddHediff>
+  <HealthTab_DebugTooltip>除錯提示</HealthTab_DebugTooltip>
+  <HealthTab_DebugTooltipDesc>將滑鼠停在健康視窗的健康狀態上，可取得額外的除錯資訊。</HealthTab_DebugTooltipDesc>
+  <HealthTab_ShowHidden>顯示隱藏的健康狀態</HealthTab_ShowHidden>
+</LanguageData>

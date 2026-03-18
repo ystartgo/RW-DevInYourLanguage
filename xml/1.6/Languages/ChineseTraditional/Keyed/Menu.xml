@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <DebugMenu_Logs>開啟除錯日誌。</DebugMenu_Logs>
+  <DebugMenu_TweakValues>開啟 TweakValues 選單。\n\n可讓你修改內部數值。</DebugMenu_TweakValues>
+  <DebugMenu_DebugActions>開啟除錯動作選單。\n\n可讓你生成物品並強制觸發各種事件。</DebugMenu_DebugActions>
+  <DebugMenu_ViewSettings>開啟檢視設定。\n\n可讓你看到特殊的除錯視覺效果。</DebugMenu_ViewSettings>
+  <DebugMenu_DebugLogging>開啟除錯記錄選單。</DebugMenu_DebugLogging>
+  <DebugMenu_Inspector>開啟檢視器。\n\n可讓你檢查遊戲中正在發生的事，深入到各個變數。</DebugMenu_Inspector>
+  <DebugMenu_DevPalette>切換開發者調色盤。\n\n可讓你建立一組常用除錯動作，方便使用。</DebugMenu_DevPalette>
+  <DebugMenu_GodMode>切換上帝模式。\n\n啟用後，你可以立即免費建造，並拆除不屬於你的物件。</DebugMenu_GodMode>
+</LanguageData>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <DIYL.PseudoL10N>標示缺漏的翻譯</DIYL.PseudoL10N>
+  <DIYL.PseudoL10N.Description>啟用開發者模式時，RimWorld 會以不尋常的字元顯示未翻譯的 key 來加以標示。此功能會強制關閉該標示效果。請參考下方預覽。</DIYL.PseudoL10N.Description>
+</LanguageData>
